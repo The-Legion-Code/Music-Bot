@@ -1,8 +1,8 @@
 # Toxtricity
 PY general music bot
-## Setup % Usage
+## Setup & Usage
 
 get python<br>
 install required packages `pip install -r requirements.txt`<br>
-modify the info in `config.py`<br>
+have your bot token in an enviroment variable named `TOKEN` (I discourage you from storing your token as raw text)<br>
 run `src/launcher.py`
