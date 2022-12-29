@@ -18,9 +18,9 @@ class music(commands.Cog):
 
     @commands.command()
     async def disconnect(self, ctx):
-      await ctx.send("Disconnected!")
       await ctx.voice_client.disconnect()
-    
+      await ctx.send("Disconnected!")
+
 
     @commands.command()
     async def play(self,ctx,url):
