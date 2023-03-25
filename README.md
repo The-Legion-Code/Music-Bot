@@ -1,5 +1,4 @@
-# Toxtricity
-PY general music bot
+# PY general music bot
 ## Setup & Usage
 
 get python<br>
